@@ -1,7 +1,7 @@
 # PartyStudy
 掌上党建
 
-本App使用了Bmob后端云的Android SDK和C# SDk
+本App使用了Bmob后端云的Android SDK和C# SDK
 
 【1、android客户端中】
 
