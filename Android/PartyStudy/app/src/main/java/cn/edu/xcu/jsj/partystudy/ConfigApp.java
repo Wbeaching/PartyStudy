@@ -5,7 +5,7 @@ package cn.edu.xcu.jsj.partystudy;
  */
 
 public class ConfigApp {
-    private String AppID = "1f1135858f73b574686ef5c2b787937e";
+    private String AppID = "填写你自己的APPID";
 
     public String getAppID() {
         return AppID;
